@@ -25,7 +25,7 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<div  align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,redux,docker,git" />
 </div>
 
@@ -34,9 +34,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alimurad21&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimurad21&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=alimurad21&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Ali Murad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimurad21&layout=compact&text_color=9f9f9f&bg_color=151515" alt="Top Languages" />
 </div>
+
 
 ---
 
@@ -58,7 +59,6 @@
 
 ---
 
-![Snake animation](https://github.com/alimurad21/alimurad21/github-contribution-grid-snake.svg)
 
 Thanks! :heart:
 ```yaml
