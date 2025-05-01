@@ -35,7 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alimurad21&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimurad21&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimurad21&layout=compact&theme=radical" />
 </div>
 
@@ -51,6 +50,7 @@
 
 ---
 
+
 ## 📬 Contact
 📧 Email: alimurad3422@gmail.com
 📍 Location: Islamabad, Pakistan
@@ -58,8 +58,10 @@
 
 ---
 
+![Snake animation](https://github.com/alimurad21/alimurad21/github-contribution-grid-snake.svg)
+
+Thanks! :heart:
 ```yaml
-🧑‍💻 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
 
 
