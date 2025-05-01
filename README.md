@@ -1,90 +1,86 @@
-# Hi, I'm Ali Murad 👋
+<h1 align="center">Hi there, I'm Ali Murad 👋</h1>
 
-🎯 **Full Stack Developer | MERN Specialist | JavaScript Enthusiast**  
-📍 Islamabad, Pakistan  
-📧 [alimurad3422@gmail.com](mailto:alimurad3422@gmail.com)  
-🔗 [Portfolio](https://alimurad21.vercel.app/) | [LinkedIn](https://pk.linkedin.com/in/alimurad21) | [GitHub](https://github.com/alimurad21)
+<p align="center">
+  <strong>Full Stack Developer | Problem Solver | MERN Enthusiast</strong>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a professional and enthusiastic full-stack developer with a passion for problem-solving and web technologies. I love making the web more accessible and open to everyone. I have a strong foundation in JavaScript and specialize in building scalable and secure web applications using the MERN stack.
-
-I’m a quick learner and a big fan of self-learning, always looking forward to working on impactful projects that challenge me to grow.
+<p align="center">
+  <a href="https://alimurad21.vercel.app" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://github.com/alimurad21" target="_blank">💻 GitHub</a> • 
+  <a href="https://pk.linkedin.com/in/alimurad21" target="_blank">🔗 LinkedIn</a> • 
+  <a href="mailto:alimurad3422@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-## 🎓 Education
+### 👨‍💻 About Me
 
-**B.Sc. in Computer Science**  
-National University of Sciences and Technology (NUST)  
-📆 *Sept 2021 – Jun 2025*
+I'm a passionate and enthusiastic Full Stack Developer based in Islamabad, Pakistan 🇵🇰. I thrive in learning new technologies and solving real-world problems. My core strength lies in the **JavaScript ecosystem**, particularly the **MERN stack**. I enjoy building open web applications and continuously challenge myself to grow technically and creatively.
 
 ---
 
-## 💼 Experience
+### 📚 Education
 
-### 🔹 Full Stack Developer (Part-Time) – NUSTrive  
-*July 2024 – Jan 2025*  
-Built a Learning Management System for online courses.  
-**Tech:** Next.js, Node.js, Express, MongoDB, JWT, Redux Toolkit
+**National University of Sciences and Technology (NUST)**  
+_B.Sc. in Computer Science_  
+📅 Sept 2021 – Jun 2025
 
-### 🔹 MERN Stack Developer (Project-Based)  
-*Dec 2023 – Mar 2024*  
-Developed scalable and secure web applications.  
-**Tech:** Next.js, Node.js, Express, MongoDB, JWT, Redux Toolkit
+---
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimurad21&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimurad21&layout=compact)
+### 💼 Experience
 
-### 🔹 MERN Stack Developer Intern – IoT Lab, SEECS  
-*June 2023 – Sept 2023*  
-Created a parcel delivery route optimization system.  
-**Tech:** React, Node.js, Express, MongoDB, Redux Toolkit
+**Full Stack Developer (Part-Time) – NUSTrive**  
+📅 Jul 2024 – Jan 2025  
+Developed a learning management system using Next.js and MERN stack.
+
+**MERN Stack Developer – Project Based**  
+📅 Dec 2023 – Mar 2024  
+Built scalable, secure web applications with user authentication and dashboard features.
+
+**MERN Stack Developer Intern – IoT Lab, SEECS**  
+📅 Jun 2023 – Sept 2023  
+Created a parcel delivery optimization website using React and Express.js.
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-### [Generic Builder](https://github.com/alimurad21/GenericBuilder)  
-React Flow-based workflow editor with real-time state updates, drag-and-drop, and zoom/pan features.
+#### 🛠 [GenericBuilder](https://github.com/alimurad21/GenericBuilder)
+React Flow-based workflow editor with drag-and-drop, custom nodes, and real-time state updates.
 
-### [E-Commerce Website](https://github.com/alimurad21/MyStore)  
-A full-featured e-commerce platform with JWT auth, admin dashboard, shopping cart, and order system.
+#### 🛒 [MyStore - E-Commerce Platform](https://github.com/alimurad21/MyStore)
+Full-featured e-commerce app with JWT auth, shopping cart, role-based access, and responsive UI.
 
-### [Head Start](https://github.com/alimurad21/HeadStart)  
-Dashboard template for consultants using React, Tailwind CSS, and Redux Toolkit.
+#### 📊 [HeadStart](https://github.com/alimurad21/HeadStart)
+Commercial consulting dashboard using React and Tailwind.
 
-### [Apna Buzz](https://github.com/alimurad21/ApnaBuzz)  
-Responsive business template with modern UI/UX and customizable design.
-
----
-
-## 🛠️ Technologies & Tools
-
-**Languages & Frameworks:**  
-JavaScript, React, Next.js, Node.js, Express, FastAPI, Django, SQL, MongoDB, PostgreSQL
-
-**Frontend:**  
-Tailwind CSS, Bootstrap, Material UI, Shadcn, React Router, Redux Toolkit, Formik
-
-**Backend & DevOps:**  
-JWT Auth, REST APIs, Supabase, Docker
-
-**Other:**  
-Git, GitHub, Linux, Windows
+#### 🌐 [ApnaBuzz](https://github.com/alimurad21/ApnaBuzz)
+Business-ready website template with customizable and scalable UI/UX.
 
 ---
 
-## 📫 Let's Connect!
+### 🧰 Tech Stack
 
-Feel free to reach out for collaboration, project ideas, or opportunities!
-
-🔗 [Portfolio](https://alimurad21.vercel.app/)  
-💼 [LinkedIn](https://pk.linkedin.com/in/alimurad21)  
-💻 [GitHub](https://github.com/alimurad21)
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, Material UI, Shadcn
+- **Backend:** Node.js, Express.js, FastAPI, Django
+- **Database:** MongoDB, PostgreSQL, SQL
+- **DevOps:** Docker, Git
+- **Tools & Platforms:** Supabase, Redux-Toolkit
 
 ---
 
-*Always learning. Always building.*
+### 📫 Let's Connect!
+
+- 📧 Email: alimurad3422@gmail.com  
+- 📞 Phone: +92 347 7550128  
+- 🌐 [Portfolio Website](https://alimurad21.vercel.app)
+
+---
+
+🧑‍💻 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+
+
 
 
 <!--
