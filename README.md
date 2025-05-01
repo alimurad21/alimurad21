@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alimurad21/alimurad21/main/banner.png" alt="Ali Murad Banner" />
-</p>
+
 
 <h1 align="center">Hi there, I'm <span style="color:#10b981">Ali Murad</span> 👋</h1>
 
